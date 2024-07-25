@@ -39,3 +39,12 @@ cleaned_data = data.dropna(subset=['Value'])
 cleaned_descriptive_stats = cleaned_data.describe()
 ```
 ## Data Analysis
+
+### All Indicators
+
+#### Frequency of Mental Health Need
+![](https://media.discordapp.net/attachments/805438507987632190/1266059082737913886/image.png?ex=66a3c4e7&is=66a27367&hm=5db7cd6849fb0cb42c461663cf8fb024b7e488cf5a452c515233a4ea5f54b9a0&=&format=webp&quality=lossless&width=1572&height=1012)
+
+#### Average Mental Health Needs by Subgroup
+![image](https://github.com/user-attachments/assets/c74ed7a8-ffd8-437b-ad9c-323e11cd605b)
+
