@@ -11,6 +11,7 @@ The data focuses on the questions:
 - The time period that data was taken was from October 28th, 2020 to May 9th, 2022.
 - More than 50,000 people were surveyed.
 - The data values represent the percent of people who answered yes, in other words, people who needed mental healthcare.
+- The term "Mental Health Value" will be used in order to describe the percentage of people who demonstrated a need for mental health care in the study. 
 
 [Link to the dataset](https://catalog.data.gov/dataset/mental-health-care-in-the-last-4-weeks) & [Link to the landing page](https://www.cdc.gov/nchs/covid19/pulse/mental-health-care.htm)
 
@@ -40,11 +41,16 @@ cleaned_descriptive_stats = cleaned_data.describe()
 ```
 ## Data Analysis
 
-### All Indicators
+### Across All Indicators
 
 #### Frequency of Mental Health Need
 ![](https://media.discordapp.net/attachments/805438507987632190/1266059082737913886/image.png?ex=66a3c4e7&is=66a27367&hm=5db7cd6849fb0cb42c461663cf8fb024b7e488cf5a452c515233a4ea5f54b9a0&=&format=webp&quality=lossless&width=1572&height=1012)
 
-#### Average Mental Health Needs by Subgroup
+#### Average Mental Health Value by Subgroup
 ![image](https://github.com/user-attachments/assets/c74ed7a8-ffd8-437b-ad9c-323e11cd605b)
+
+#### Average Mental Health Value by Age
+
+
+
 
