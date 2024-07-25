@@ -55,7 +55,7 @@ cleaned_descriptive_stats = cleaned_data.describe()
 #### Average Mental Health Value by Sex
 ![image](https://github.com/user-attachments/assets/05966a8f-e64c-4d45-a3f6-68a9cf73a1e1)
 
-#### Average Mental Health Value by Gender
+#### Average Mental Health Value by Gender Identity
 ![image](https://github.com/user-attachments/assets/7d5e8fda-63f6-4a13-a021-8cf111aa6556)
 
 #### Average Mental Health Value by Sexual Orientation
