@@ -11,3 +11,6 @@ At any time in the last 4 weeks, did you need counseling or therapy from a menta
 - The time period that data was taken was from October 28th, 2020 to May 9th, 2022.
 - More than 50,000 people were surveyed.
 - The data values represent the percent of people who answered yes, in other words, people who needed mental healthcare.
+
+[Link to the dataset] (https://catalog.data.gov/dataset/mental-health-care-in-the-last-4-weeks)
+[Link to the landing page] (https://www.cdc.gov/nchs/covid19/pulse/mental-health-care.htm)
