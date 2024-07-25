@@ -5,6 +5,10 @@ By Amelia Sun
 
 ### Indicator: Took Prescription Medication for Mental Health over the Last 4 Weeks
 
+#### Correlation Matrix Across All Subgroups
+![image](https://github.com/user-attachments/assets/2b300d4b-da84-48ce-b6de-3356ff03a362)
+
+
 #### Mental Health Values over Time, Sorted by Age
 ![image](https://github.com/user-attachments/assets/99c511af-7864-4ec3-b08b-b7e663477690)
 
