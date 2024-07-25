@@ -27,8 +27,7 @@ By Amelia Sun
 ![image](https://github.com/user-attachments/assets/b3879eaf-239b-4219-893b-895649089aba)
 
 #### Mental Health Values over Time, Sorted by Disability
-![image](https://github.com/user-attachments/assets/126b32fd-1dfc-4225-ac37-4629f00f110a)
-
+![image](https://github.com/user-attachments/assets/dc846da1-c050-4d25-a680-233be67414be)
 
 #### Mental Health Values over Time, Sorted by State
 ![image](https://github.com/user-attachments/assets/14f4fb82-8cbc-4343-b1ed-ff2ffff4c135)
