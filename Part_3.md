@@ -3,6 +3,9 @@ By Amelia Sun
 
 ## Data Analysis
 
-### Indicator: Took Prescription Medication for Mental Health in the Last 4 Weeks
+### Indicator: Took Prescription Medication for Mental Health over the Last 4 Weeks
 
-#### Age
+#### Mental Health Values over Time, Sorted by Age
+![image](https://github.com/user-attachments/assets/99c511af-7864-4ec3-b08b-b7e663477690)
+
+
