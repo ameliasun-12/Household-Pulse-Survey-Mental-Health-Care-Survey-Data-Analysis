@@ -50,7 +50,28 @@ cleaned_descriptive_stats = cleaned_data.describe()
 ![image](https://github.com/user-attachments/assets/c74ed7a8-ffd8-437b-ad9c-323e11cd605b)
 
 #### Average Mental Health Value by Age
+![](https://cdn.discordapp.com/attachments/821772778591879228/1266113047018209343/image.png?ex=66a3f729&is=66a2a5a9&hm=54d4e1253edd8e018ccb5c56d55bc9d5dd9161301209fabb13b9dae8a357641d&)
 
+#### Average Mental Health Value by Sex
+![image](https://github.com/user-attachments/assets/05966a8f-e64c-4d45-a3f6-68a9cf73a1e1)
 
+#### Average Mental Health Value by Gender
+![image](https://github.com/user-attachments/assets/7d5e8fda-63f6-4a13-a021-8cf111aa6556)
 
+#### Average Mental Health Value by Sexual Orientation
+![image](https://github.com/user-attachments/assets/2376cd6a-d3f1-475c-a6b8-39c3cf8035a4)
 
+#### Average Mental Health Value by Presence of Anxiety/Depression Symptoms
+![image](https://media.discordapp.net/attachments/821772778591879228/1266116099460694137/352265974-2f01c706-f8e7-4505-9e3a-cf630d0c9b2a_1.png?ex=66a3fa01&is=66a2a881&hm=39d849ce4551108df76b40e3fdd6d866f9b5df92c1a1b1c7229f3e92d2007973&=&format=webp&quality=lossless&width=820&height=1012)
+
+#### Average Mental Health Value by Race
+![image](https://github.com/user-attachments/assets/49c69f00-d98e-4761-ada2-70d26d50b8c8)
+
+#### Average Mental Health Value by Education
+![image](https://github.com/user-attachments/assets/5d43b085-c1a5-4376-877d-fc43b1c2baea)
+
+#### Average Mental Health Value by Disability
+![image](https://github.com/user-attachments/assets/69486a44-32a8-445c-8e89-8b0008ee4a76)
+
+#### Average Mental Health Value by State
+![image](https://github.com/user-attachments/assets/37440aae-1296-4251-9058-bed65b78811a)
